@@ -21,4 +21,4 @@ int main(){
         default:
         std::cout << "please only enter letter A-C"; }
 
-    return 0;}
+    return 0;}//switch is used to define and break is used to intercept and move forward//

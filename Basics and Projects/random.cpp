@@ -14,7 +14,7 @@ int main() {
     std::cout << "###### NUMBER GUESSING ######\n";
 
     do{
-        std::cout << "Guess a number between (1-100)\n";
+        std::cout << "Guess a number between (1-10)\n";
         std::cin >> guess;
         tries++;
 
